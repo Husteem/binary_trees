@@ -2,7 +2,7 @@
 
 /**
  * bst_insert - a function that inserts a value in a Binary Search Tree
- *val
+ *serching
  *
  * @tree:  is a double pointer to the root node of the BST to insert the value
  * @value: is the value to store in the node to be inserted
