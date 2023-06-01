@@ -2,7 +2,7 @@
 
 /**
  * bst_search - a function that searches for a value in a Binary Search Tree
- *serch
+ *valuee
  *
  * @tree: is a pointer to the root node of the BST to search
  * @value: is the value to search in the tree
