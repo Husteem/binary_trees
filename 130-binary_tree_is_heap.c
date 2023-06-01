@@ -3,7 +3,7 @@
 /**
  * binary_tree_is_heap - a function that checks if a binary tree
  * is a valid Max Binary Heap
- *checj
+ *validity
  *
  * @tree: is a pointer to the root node of the tree to check
  *
