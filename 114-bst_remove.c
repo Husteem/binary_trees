@@ -3,6 +3,7 @@
  * min_finder - a function that finds the minimum root
  * @root: pointer to the tree
  * Return: minimum root
+ *looking for
  */
 
 bst_t *min_finder(bst_t *root)
@@ -14,7 +15,7 @@ bst_t *min_finder(bst_t *root)
 
 /**
  * bst_remove -  a function that removes a node from a Binary Search Tree
- *long
+ *
  * @root: is a pointer to the root node of the tree
  * where you will remove a node
  * @value: is the value to remove in the tree
