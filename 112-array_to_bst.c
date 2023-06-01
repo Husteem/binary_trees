@@ -2,7 +2,7 @@
 
 /**
  * array_to_bst - a function that builds a Binary Search Tree from an array
- *aray
+ *serchh
  *
  * @array: is a pointer to the first element of the array to be converted
  * @size: is the number of element in the array
