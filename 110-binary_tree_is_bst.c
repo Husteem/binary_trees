@@ -2,12 +2,12 @@
 
 /**
  * isBST - a function that compare node
+ *comparation
  *
  * @tree: pointer to the root node of the tree to check
  * @min: value
  * @max: value
  *
- *comparation
  * Return: 1 if success, 0 otherwise
  */
 int isBST(const binary_tree_t *tree, int min, int max)
