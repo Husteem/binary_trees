@@ -2,6 +2,7 @@
 
 /**
  * bst_insert - a function that inserts a value in a Binary Search Tree
+ *val
  *
  * @tree:  is a double pointer to the root node of the BST to insert the value
  * @value: is the value to store in the node to be inserted
@@ -9,7 +10,6 @@
  * if the address stored in tree is NULL,
  * the created node must become the root node.
  * if the value is already present in the tree, it must be ignored
- *value
  */
 bst_t *bst_insert(bst_t **tree, int value)
 {
