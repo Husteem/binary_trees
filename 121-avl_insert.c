@@ -2,7 +2,7 @@
 
 /**
  * avl_insert_full - a function that inserts a value
- *insert
+ *avl
  *
  * @tree: pointer to the root
  * @parent: parent of node
